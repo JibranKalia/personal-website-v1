@@ -1,4 +1,4 @@
-baseurl = "https://jibrankalia.com"
+baseurl = "https://jibrankalia.netlify.com"
 title = "Jibran Kalia"
 theme = "coder"
 languagecode = "en"
