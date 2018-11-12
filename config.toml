@@ -1,5 +1,6 @@
 baseurl = "https://jibrankalia.com"
 title = "Jibran Kalia"
+canonifyURLs  = true
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -12,6 +13,16 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+
+[outputFormats.REDIRECTS]
+mediaType = "text/netlify"
+baseName = "_redirects"
+
+[outputs]
+home = [ "HTML", "REDIRECTS" ]
 
 [params]
     author = "Jibran Kalia"
