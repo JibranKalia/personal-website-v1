@@ -12,8 +12,6 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
-
 [mediaTypes."text/netlify"]
 delimiter = ""
 
@@ -29,15 +27,13 @@ home = [ "HTML", "REDIRECTS" ]
     info = "Software Developer"
     description = "Jibran Kalia's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "img/jibrankalia.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
-
     hidecredits = false
-    hidecopyright = false
+    hidecopyright = true
 
     rtl = false
 
@@ -49,17 +45,17 @@ home = [ "HTML", "REDIRECTS" ]
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/jibrankalia/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/jibran-kalia/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/jibrankalia/"
 
 # Menu links
 [[menu.main]]

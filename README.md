@@ -1,3 +1,3 @@
 # jibrankalia.com
 
-WIP
+Built using [Hugo](https://gohugo.io/). Hosted on [Netlify](https://www.netlify.com/)
