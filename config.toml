@@ -11,6 +11,7 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+googleAnalytics = "UA-129311280-1"
 
 [mediaTypes."text/netlify"]
 delimiter = ""
