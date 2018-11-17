@@ -4,7 +4,6 @@ title = "Sass Ampersands and more"
 slug = "sass-ampersands" 
 tags = ["what I learnt today"]
 categories = ["development", "sass"]
-draft=true
 +++
 ### What I learnt today - 2018/08/09 
 
