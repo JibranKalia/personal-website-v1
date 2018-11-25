@@ -3,7 +3,8 @@ title = "About Me"
 slug = "about"
 +++
 
-This website is a little bare bones right now but I am starting to work on it. Let see how far I can take it!
+I am full-stack software developer based in Austin, TX.
 
+I love programming and reading. I am starting to fall in love with writing and [pickleball](https://youtu.be/WLWj2LXecHU) as well.
 
-<iframe src="https://resume.creddle.io/embed/663g8tvhidf" width="855" height="1105" seamless></iframe>
+You can find me on [LinkedIn](https://www.linkedin.com/in/jibran-kalia/), [Twitter](https://twitter.com/jibrankalia), and [Goodreads](https://www.goodreads.com/jibrankalia). Or write me an email to jibran.kalia@gmail.com

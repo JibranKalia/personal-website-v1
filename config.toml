@@ -53,6 +53,11 @@ home = [ "HTML", "REDIRECTS" ]
     weight = 3
     url = "https://www.linkedin.com/in/jibran-kalia/"
 [[params.social]]
+    name = "Goodreads"
+    icon = "fab fa-goodreads fa-2x"
+    weight = 3
+    url = "https://www.goodreads.com/jibrankalia"
+[[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
