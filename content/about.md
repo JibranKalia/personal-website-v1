@@ -3,9 +3,6 @@ title = "About Me"
 slug = "about"
 +++
 
-
-#### Bio
-
 I am full-stack software developer based in Austin, TX.
 
 I love programming and reading. I am starting to fall in love with writing and [pickleball](https://youtu.be/WLWj2LXecHU) as well.
@@ -13,18 +10,18 @@ I love programming and reading. I am starting to fall in love with writing and [
 You can find me on [LinkedIn](https://www.linkedin.com/in/jibran-kalia/), [Twitter](https://twitter.com/jibrankalia), and [Goodreads](https://www.goodreads.com/jibrankalia). Or write me an email to jibran.kalia@gmail.com
 
 
-#### Technologies I use every single day:
+##### Technologies I use every single day
 
 - Ruby on Rails 
 - Javascript (Ember.js)
 - VSCode with Vim bindings
 
-#### Technologies I am learning right now
+##### Technologies I am learning right now
 
 - React Native
 - Golang
 
-#### Technologies I want to explore in the future
+##### Technologies I want to explore in the future
 
 - Scala
 - Elm and functional programming
