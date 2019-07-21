@@ -18,6 +18,7 @@ React Native + Apollo + Graphql
 
 - [x] Finish the "Add Time Travel" Section of the React tutorial
 - [ ] Finish the "Introduction" portion of Apollo's Tutorial
+- [ ] Start initial work on the app
 
 ## Links
 
