@@ -16,7 +16,7 @@ React Native + Apollo + Graphql
 
 ### 07/22/2019 Streaming Plan
 
-- [ ] Finish the "Add Time Travel" Section of the React tutorial
+- [x] Finish the "Add Time Travel" Section of the React tutorial
 - [ ] Finish the "Introduction" portion of Apollo's Tutorial
 
 ## Links
