@@ -38,6 +38,10 @@ home = [ "HTML", "REDIRECTS" ]
     math = true
     custom_css = ["css/custom.css"]
 
+[blackfriday]
+    taskLists = true
+    extensions = ["hardLineBreak"]
+
 # Social links
 [[params.social]]
     name = "Github"
