@@ -1,7 +1,7 @@
 +++
 date = "2019-07-22 19:37:35 -0500"
 title = "Building a Learning Management System | Day 2"
-slug = "startup-day-1"
+slug = "startup-day-2"
 tags = ["react", "react native", "apollo"]
 categories = ["streaming-notes"]
 +++
