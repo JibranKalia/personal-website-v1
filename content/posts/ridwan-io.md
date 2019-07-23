@@ -1,8 +1,8 @@
 +++
 date = "2019-07-19 19:32:06 -0500"
-title = "Ridwan Io"
+title = "Ridwan.io"
 slug = "ridwan-io"
-tags = ["react", "react native", "apollo"]
+tags = ["learning-managment-system"]
 categories = ["streaming-notes"]
 +++
 
