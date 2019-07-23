@@ -1,5 +1,5 @@
 +++
-date = "2019-07-19 19:32:06 -0500"
+date = "2019-07-20 19:32:06 -0500"
 title = "Ridwan.io"
 slug = "ridwan-io"
 tags = ["learning-managment-system"]
