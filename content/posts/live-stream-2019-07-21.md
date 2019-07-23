@@ -1,7 +1,7 @@
 +++
 date = "2019-07-21 10:34:54 -0500"
 title = "Building a Learning Management System | Day 1"
-slug = "startup-day-1"
+slug = "building-lms"
 tags = ["react", "react native", "apollo"]
 categories = ["streaming-notes"]
 +++
@@ -14,10 +14,12 @@ More details here: [Ridwan.io]({{< ref "/posts/ridwan-io" >}})
 
 React Native + Apollo + Graphql
 
-### 07/21/2019 Streaming Plan
+### Streaming Plan
 
 - [x] Finish the "Add Time Travel" Section of the React tutorial
-- [ ] Finish the "Introduction" portion of Apollo's Tutorial
+- [x] Finish the "Introduction" portion of Apollo's Tutorial
+- [x] Finish the "Hook up your data sources" portion of Apollo's Tutorial
+- [ ] Finish the "Write your graph's resolvers" portion of Apollo's Tutorial
 
 ## Links
 
