@@ -14,11 +14,10 @@ More details here: [Ridwan.io]({{< ref "/posts/ridwan-io" >}})
 
 React Native + Apollo + Graphql
 
-### 07/22/2019 Streaming Plan
+### 07/21/2019 Streaming Plan
 
 - [x] Finish the "Add Time Travel" Section of the React tutorial
 - [ ] Finish the "Introduction" portion of Apollo's Tutorial
-- [ ] Start initial work on the app
 
 ## Links
 
