@@ -1,7 +1,7 @@
 +++
 date = "2019-07-21 10:34:54 -0500"
 title = "Building an app with React and Apollo"
-slug = "building-lms"
+slug = "livestream-react-apollo-app"
 tags = ["react", "react native", "apollo"]
 categories = ["streaming-notes"]
 +++
@@ -20,6 +20,12 @@ React Native + Apollo + Graphql
 - [x] Finish the "Introduction" portion of Apollo's Tutorial
 - [x] Finish the "Hook up your data sources" portion of Apollo's Tutorial
 - [ ] Finish the "Write your graph's resolvers" portion of Apollo's Tutorial
+
+### Past Sessions
+
+[Session 3](https://youtu.be/xQRjwu61jMM)
+[Session 2](https://youtu.be/y42eBbeodaA)
+[Session 1](https://youtu.be/fdqMPAWzsJs)
 
 ## Links
 
