@@ -32,7 +32,9 @@ React Native + Apollo + Graphql
 - [x] Finish the "Add Time Travel" Section of the React tutorial
 - [x] Finish the "Introduction" portion of Apollo's Tutorial
 - [x] Finish the "Hook up your data sources" portion of Apollo's Tutorial
-- [ ] Finish the "Write your graph's resolvers" portion of Apollo's Tutorial
+- [ ] Finish Client section of Apollo Tutorial
+- [ ] Get (Universal Started Kit)[https://github.com/sysgears/apollo-universal-starter-kit] deployed on Heroku
+- [ ] Seed the db with fake Users and get a User query running
 
 ### Past Sessions
 
