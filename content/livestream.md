@@ -16,6 +16,7 @@ This a spreadshet one of our Quran teachers use to record student progress [spre
 
 Really the first goal of the app is to remove the need for the spreadsheet. Currently the teacher then texts the result to the parents.
 The app will:
+
 - [ ] Allow Teacher Login
 - [ ] Pull up a list of students for that teacher
 - [ ] Allow teacher to select student and then enter the student lesson details via a nice intutive form
