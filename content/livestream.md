@@ -8,9 +8,8 @@ categories = ["streaming-notes"]
 
 #### What we are building?
 
-More details here: [Ridwan.io]({{< ref "/posts/ridwan-io" >}})
+The name of the app is **ridwan.io**. It is a Learning Management System for students memorizing Holy Quran.
 
-The first quick will be to make t
 This a spreadshet one of our Quran teachers use to record student progress [spreadsheet](https://docs.google.com/spreadsheets/d/1OxS0xbLkGXO1HOMCInlix0jywb-naC3CoFFkDPeQ5T8/edit?usp=sharing).
 
 
