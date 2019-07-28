@@ -10,6 +10,18 @@ categories = ["streaming-notes"]
 
 More details here: [Ridwan.io]({{< ref "/posts/ridwan-io" >}})
 
+The first quick will be to make t
+This a spreadshet one of our Quran teachers use to record student progress [spreadsheet](https://docs.google.com/spreadsheets/d/1OxS0xbLkGXO1HOMCInlix0jywb-naC3CoFFkDPeQ5T8/edit?usp=sharing).
+
+
+Really the first goal of the app is to remove the need for the spreadsheet. Currently the teacher then texts the result to the parents.
+The app will:
+- [ ] Allow Teacher Login
+- [ ] Pull up a list of students for that teacher
+- [ ] Allow teacher to select student and then enter the student lesson details via a nice intutive form
+- [ ] Format the data into a nice message that teacher can then text to the parents. (This part will evolve in the future with parent clients)
+
+
 #### Technology Stack
 
 React Native + Apollo + Graphql
@@ -23,6 +35,7 @@ React Native + Apollo + Graphql
 
 ### Past Sessions
 
+[Session 4](https://youtu.be/rsxe_GWJew0)
 [Session 3](https://youtu.be/xQRjwu61jMM)
 [Session 2](https://youtu.be/y42eBbeodaA)
 [Session 1](https://youtu.be/fdqMPAWzsJs)
