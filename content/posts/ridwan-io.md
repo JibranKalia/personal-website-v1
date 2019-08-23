@@ -4,6 +4,7 @@ title = "Ridwan.io"
 slug = "ridwan-io"
 tags = ["learning-managment-system"]
 categories = ["streaming-notes"]
+draft=true
 +++
 
 ### Ridwan.io

@@ -65,10 +65,10 @@ home = [ "HTML", "REDIRECTS" ]
     url = "https://twitter.com/jibrankalia/"
 
 # Menu links
-[[menu.main]]
-    name = "Live Stream"
-    weight = 1
-    url  = "/livestream-react-apollo-app/"
+# [[menu.main]]
+#     name = "Live Stream"
+#     weight = 1
+#     url  = "/livestream-react-apollo-app/"
 [[menu.main]]
     name = "Blog"
     weight = 1
