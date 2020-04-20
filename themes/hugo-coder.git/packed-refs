@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+e46c452344a13d94b2748efa8a281778fc70df4b refs/heads/master
+730f241f25f3683db2b18f543693f2412c847b49 refs/heads/new-archetypes
+bd8f61093656f2804c0175b49ae01f70866d8b5a refs/heads/self-hosting-deps
+1d8e1935def276a36430ee2a35b98e6cb342e080 refs/tags/v1.0
