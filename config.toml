@@ -1,7 +1,7 @@
 baseurl = "https://v1.jibrankalia.com"
 title = "Jibran Kalia"
 canonifyURLs  = false
-theme = "hugo-coder"
+# theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -11,6 +11,10 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"
 
 [params]
     author = "Jibran Kalia"
