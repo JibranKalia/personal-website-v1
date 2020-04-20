@@ -1,6 +1,6 @@
-baseurl = "https://jibrankalia.com"
+baseurl = "https://v1.jibrankalia.com"
 title = "Jibran Kalia"
-canonifyURLs  = true
+canonifyURLs  = false
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,7 +11,6 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-googleAnalytics = "UA-129311280-1"
 
 [mediaTypes."text/netlify"]
 delimiter = ""
