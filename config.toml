@@ -1,7 +1,7 @@
 baseurl = "https://v1.jibrankalia.com"
 title = "Jibran Kalia"
 canonifyURLs  = false
-theme = "coder"
+theme = ["coder"]
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -11,16 +11,6 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-[mediaTypes."text/netlify"]
-delimiter = ""
-
-[outputFormats.REDIRECTS]
-mediaType = "text/netlify"
-baseName = "_redirects"
-
-[outputs]
-home = [ "HTML", "REDIRECTS" ]
 
 [params]
     author = "Jibran Kalia"
